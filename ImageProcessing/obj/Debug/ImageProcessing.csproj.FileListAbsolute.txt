@@ -25,3 +25,30 @@ C:\Users\92347\Desktop\Desktop\OOP\Projects\Threading\ImageProcessing\ImageProce
 C:\Users\92347\Desktop\Desktop\OOP\Projects\Threading\ImageProcessing\ImageProcessing\bin\Debug\Patagames.Ocr.xml
 C:\Users\92347\Desktop\Desktop\OOP\Projects\Threading\ImageProcessing\ImageProcessing\bin\Debug\System.Drawing.Common.xml
 C:\Users\92347\Desktop\Desktop\OOP\Projects\Threading\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CopyComplete
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\configs\config.cfg
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\eng.traineddata
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\equ.traineddata
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\osd.traineddata
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\pdf.ttf
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\tessdata\pdf.ttx
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x86\tesseract41.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x64\tesseract41.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x64\tesseract.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\x86\Tesseract.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\Patagames.Ocr.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\Patagames.Ocr.xml
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CopyComplete
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache

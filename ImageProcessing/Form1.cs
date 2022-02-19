@@ -29,7 +29,7 @@ namespace ImageProcessing
             pbxOriginal.ImageLocation = o.FileName;
 
         }
-        private async void  BtnSelectPicture_Click(object sender, EventArgs e)
+        private async void BtnSelectPicture_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Filter = "Image File (*.bmp,*.jpg)|*.bmp;*.jpg";
@@ -39,8 +39,6 @@ namespace ImageProcessing
                  {
                      ImagePut imagePut = new ImagePut(PutItHere);
                      imagePut(openFileDialog);
-                    
-
                  }
                  );
                 lblStatus.Text = "";
@@ -57,19 +55,32 @@ namespace ImageProcessing
 
                  Processing.ConvertToGrey(copy);
                  pbcGrey.Image = copy;
-                 using (var objOcr = OcrApi.Create())
-                 {
-                     objOcr.Init(Patagames.Ocr.Enums.Languages.English);
-                     PutText put = new PutText(TextHere);
-                     put(objOcr.GetTextFromImage(pbxOriginal.ImageLocation));
+                 if (pbxOriginal.ImageLocation != null)
 
+                     using (var objOcr = OcrApi.Create())
+                     {
+                         objOcr.Init(Patagames.Ocr.Enums.Languages.English);
+                         richTextBox1.Invoke(new MethodInvoker(delegate
+                             {
+                                 richTextBox1.Text = objOcr.GetTextFromImage(pbxOriginal.ImageLocation);
+                             }));
 
-                 }
+                     }
              });
             lblStatus.Text = "";
-            
-          
+
+
             btnGrey.Enabled = true;
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }
